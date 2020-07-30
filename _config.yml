@@ -93,10 +93,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Jinwoo Ahn@Seoul"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "Honest, Humble, Diligence. Major in Industrial Engineering, Data Science Track"
+  location         : "Seoul, South Korea"
   email            :
   links:
     - label: "Email"
