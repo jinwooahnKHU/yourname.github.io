@@ -11,8 +11,8 @@ To add new posts, simply add a file in the 'posts' directory that follows the co
 
 And also, Jekyll offers powerful support for code snippets:
 
-'''python
+```python
 def print_hi(name):
-  print("hello",name)
-print_hi('Jinwooahn')
-'''
+  print("hello", name)
+print_hi('Tom')
+```
